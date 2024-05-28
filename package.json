@@ -1,0 +1,33 @@
+{
+  "name": "localmente-php-extension-pack",
+  "displayName": "localmente-php-extension-pack",
+  "description": "Uma coleção de extensões básicas para trabalhar com php no ambiente local",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "ms-vscode-remote.remote-wsl", //WSL
+    "ikappas.composer", //Composer
+    "donjayamanne.githistory", //Git History
+    "eamodio.gitlens", //Git Lens
+    "junstyle.php-cs-fixer", //php cs fixer
+    "xdebug.php-pack", //PHP Extension Pack
+    "bmewburn.vscode-intelephense-client", //PHP Intelephense
+    "SonarSource.sonarlint-vscode", //SonarLint
+    "ow.vscode-subword-navigation" //Subword Navigation
+  ],
+  "publisher": "localmente-php-extension-pack",
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#030518",
+    "theme": "dark"
+  },
+  "keywords": [
+    "php"
+  ],
+  
+}
