@@ -29,5 +29,11 @@
   "keywords": [
     "php"
   ],
-  
+  "repository": {
+    "url": "https://github.com/turcotads/localmente-php-extension-pack"
+  },
+  "homepage": "https://github.com/turcotads/localmente-php-extension-pack",
+  "bugs": {
+    "url": "https://github.com/turcotads/localmente-php-extension-pack/issues"
+  }
 }
